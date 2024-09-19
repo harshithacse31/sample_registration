@@ -3,7 +3,7 @@
 <html align="center">
     <head>
         <title>
-            student registration form
+            student registration 
         </title>
     </head>
     <h2>
